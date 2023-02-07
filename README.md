@@ -20,10 +20,10 @@
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center"> Blog</h3>
+  <h3 align="center"> RSVP with USSD </h3>
 
   <p align="center">
-    a web app where authors create content and when published are displayed on the website
+    a web app that consumes Africa's Talking USSD and SMS APIs
     <br />
 
   </p>
@@ -49,7 +49,6 @@ The current package requirements are:
 
 - Laravel >= 6.x
 - PHP >= 7.2
-- Node JS >=10.0
 
 ### Installation
 
@@ -58,9 +57,9 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://github.com](https://github.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/markmosobo/blog.git
+   git clone https://github.com/samuelmwathi/rsvp-with-ussd.git
    ```
-2. Install compoer dependencies
+2. Install composer dependencies
    ```sh
    composer install
    ```
@@ -87,9 +86,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    php artisan serve
    ```  
-8. Login credentials (admin)
-    admin@admin.com
-    123456   
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
